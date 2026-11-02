@@ -13,7 +13,7 @@ Multi-objective optimization of a brake disc in ANSYS: minimizes volume, stress 
 <p align="center"><img src="Project%202/spider.png" width="420" alt="Brake disc design trade-off chart"></p>
 
 ## Homework
-`Homework/` holds assignments 1–5 (Jupyter notebooks with PDF exports): unconstrained and constrained optimization, gradient methods, and KKT conditions.
+`Homework/` holds assignments 1–5 as Jupyter notebooks with PDF exports.
 
 ## Tools
 Python, PyTorch, NumPy, Matplotlib, Jupyter, ANSYS Workbench
